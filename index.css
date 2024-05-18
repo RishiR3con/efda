@@ -1,0 +1,6 @@
+6Unchecked runtime.lastError: The message port closed before a response was received.
+roosterexe:1  Access to XMLHttpRequest at 'https://api.fontshare.com/v2/css?f[]=satoshi@1&f[]=array@400&display=swap' from origin 'https://guns.lol' has been blocked by CORS policy: The 'Access-Control-Allow-Origin' header has a value 'https://api.fontshare.com' that is not equal to the supplied origin.
+chunk-d8251103.js:11  XHR CORS CSS fail:https://api.fontshare.com/v2/css?f[]=satoshi@1&f[]=array@400&display=swap
+t.onerror @ chunk-d8251103.js:11
+Show 1 more frame
+Show less
